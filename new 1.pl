@@ -36,7 +36,7 @@ genre(travis_barker, rock).
 genre(kesha, pop).
 
 
-/* STDIN */
+/* STDIN our variables must start with Caps, then it will find our information in the relationship database*/
 beats(scissors, X).
 plays(Who, guitar).
 wrote(dan_brown, What).
